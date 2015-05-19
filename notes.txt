@@ -1,0 +1,2 @@
+05/18
+Finish mobile layout with youtube directives use this article to guide you http://blog.oxrud.com/posts/creating-youtube-directive/
