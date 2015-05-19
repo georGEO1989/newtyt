@@ -1,0 +1,44 @@
+* {
+	  font-family: 'Raleway', sans-serif;
+}
+
+body {
+	width: 92%;
+	margin: 0 auto;
+	margin-top: 10px; /*Make some room at the top*/
+	background-color: #f6f5f2;
+}
+
+header {
+	border-bottom: 3px solid black;
+}
+
+.wrap {
+	background-color: rgba(255,255,255, 0.75);
+}
+
+.action-button-head {
+	margin-bottom: 2%;
+}
+
+.featured {
+	margin: 0 auto;
+}
+
+.featured-videos {
+	color: rgba(0,0,0, 0.75);
+	text-align: center;
+}
+
+.welcome {
+	color: rgba(0,0,0, 0.75);
+	text-align: center;
+}
+
+/*Media Query for small devices*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  	.action-head-buttons {
+  		margin-top: -40px;
+	}
+
+}
