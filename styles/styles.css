@@ -25,6 +25,10 @@ header {
 	margin: 0 auto;
 }
 
+.featured > div > div {
+	text-align: center;
+}
+
 .featured-videos {
 	color: rgba(0,0,0, 0.75);
 	text-align: center;
@@ -33,6 +37,10 @@ header {
 .welcome {
 	color: rgba(0,0,0, 0.75);
 	text-align: center;
+}
+
+.more-videos {
+	margin-bottom: 1px solid rgba(0,0,0, 0.5);
 }
 
 /*Media Query for small devices*/

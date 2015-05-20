@@ -1,2 +1,5 @@
 05/18
 Finish mobile layout with youtube directives use this article to guide you http://blog.oxrud.com/posts/creating-youtube-directive/
+05/19
+Got the youtube sirective to work. Now convert it to a factory so that the onYouTubeIframeAPIReady global function is not overwritten for every directive decalared
+-https://docs.angularjs.org/guide/services
