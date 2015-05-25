@@ -1,0 +1,91 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 10px; /*Make some room at the top*/
+  background-color: #f6f5f2;
+}
+
+header {
+  border-bottom: 3px solid black;
+}
+
+.wrap {
+  background-color: rgba(255,255,255, 0.75);
+}
+
+.action-button-head {
+  margin-bottom: 2%;
+}
+
+.action-button-head > a > button {
+  font-weight: bold;
+}
+
+.featured {
+  margin: 0 auto;
+}
+
+.featured > div > div {
+  text-align: center;
+}
+
+.featured-videos {
+  color: rgba(0,0,0, 0.75);
+  text-align: center;
+}
+
+.featured-videos > h3 {
+  font-weight: bold;
+}
+
+.welcome {
+  color: rgba(0,0,0, 0.75);
+  text-align: center;
+}
+
+.more-videos {
+  margin-bottom: 1px solid rgba(0,0,0, 0.5);
+}
+
+.more-videos > h3:first-child {
+  font-weight: bold;
+}
+
+.front-video {
+  border-bottom: 5px solid black;
+}
+
+.app-icon > a {
+  color: #000;
+}
+
+.footer {
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
+
+/*Media Query for small devices*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .action-head-buttons {
+      margin-top: -40px;
+  }
+
+  .tyt-app-ad > h3 {
+  font-weight: lighter !important;
+  }
+
+  .app-icon {
+    font-size: 5em !important;
+    margin: 10px;
+  }
+
+  .register-form {
+    margin-bottom: 20px;
+  }
+
+}
