@@ -5,3 +5,6 @@ Got the youtube sirective to work. Now convert it to a factory so that the onYou
 -https://docs.angularjs.org/guide/services
 05/24
 Converted to yeoman app. Also got the routing to work. Now you need to add the authentication into the LoginCtrl and setup the registration see link: https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec
+05/26
+Look into creating a video carousel using angularjs see: http://andyshora.com/wallop-slider-angularjs-css.html
+Look into other ways for authentication see: http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html
