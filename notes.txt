@@ -8,3 +8,5 @@ Converted to yeoman app. Also got the routing to work. Now you need to add the a
 05/26
 Look into creating a video carousel using angularjs see: http://andyshora.com/wallop-slider-angularjs-css.html
 Look into other ways for authentication see: http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html
+05/27
+Fifure out why this damn slider isn't working
